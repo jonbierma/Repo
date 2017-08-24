@@ -7,6 +7,6 @@ This file was written by Jon.
 
 I *really* valued my time in Ukraine and I miss it
 
-[Click here](https://www.jonbierma.wordpress.com) for a blog about my time there.
+[Click here](https://www.kyivpost.com) for a good news source about Ukraine.
 
-That's all
+
