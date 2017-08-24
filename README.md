@@ -1,26 +1,12 @@
-# Large Heading
+This file was written by Jon. 
 
-## Smaller Heading
+### I've lived in:
+* Iowa
+* Ukraine
+* Colorado
 
-This **sentence** shows different *aspects* of markdown.
+I *really* valued my time in Ukraine and I miss it
 
-Here's a list
-- first item
-- second
+[Click here](https://www.jonbierma.wordpress.com) for a blog about my time there.
 
-1. An ordered
-2. List
-
-Code can be inserted `let x=x+$y` like so
-
-A block of code:
-```
-for i in $@
-do
-	echo $i
-done
-```
-
-Follow this link to [google](https://www.google.com).
-
-![An image](https://media.galaxant.com/000/345/178/desktop-1441726967.jpg)
+That's all
