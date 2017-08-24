@@ -21,6 +21,6 @@ do
 done
 ```
 
-Follow this link to [google](www.google.com).
+Follow this link to [google](https://www.google.com).
 
-![An image](media.galaxant.com/000/345/178/desktop-1441726967.jpg)
+![An image](https://media.galaxant.com/000/345/178/desktop-1441726967.jpg)
