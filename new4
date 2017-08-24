@@ -1,2 +1,5 @@
 yo
-hi
+<<<<<<< HEAD
+=======
+here's a new line in a new branch
+>>>>>>> new-feature
